@@ -1,0 +1,28 @@
+[Header],,
+IEMFileVersion,4,
+Date,6/16/2022,
+Workflow,GenerateFASTQ,
+Application,FASTQ Only,
+Assay,TruSeq HT,
+Description,2.5nMfor1%phiX,
+Chemistry,Amplicon,
+Experiment Name,10X_KW10051,
+[Reads],,
+50,,
+49,,
+,,
+[Settings],,
+,,
+,,
+,,
+,,
+[Data],,
+Sample_ID,Sample_Name,index
+BRI-1711,BRI-1711,ACGCTTGG
+BRI-1711,BRI-1711,CGCTACAT
+BRI-1711,BRI-1711,GAAAGACA
+BRI-1711,BRI-1711,TTTGCGTC
+BRI-1725,BRI-1725,AGGCTACC
+BRI-1725,BRI-1725,CTAGCTGT
+BRI-1725,BRI-1725,GCCAACAA
+BRI-1725,BRI-1725,TATTGGTG

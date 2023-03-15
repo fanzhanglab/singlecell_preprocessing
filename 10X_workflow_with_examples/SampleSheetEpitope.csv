@@ -1,0 +1,26 @@
+[Header],,,,
+IEMFileVersion,4,,,
+Date,6/16/22,,,
+Workflow,GenerateFASTQ,,,
+Application,FASTQ Only,,,
+Assay,TruSeq HT,,,
+Description,,,,
+Chemistry,,,,
+Experiment Name,10X_KW10050_PY10115,,,
+[Reads],,,,
+28,,,,
+90,,,,
+,,,,
+[Settings],,,,
+,,,,
+,,,,
+,,,,
+,,,,
+[Data],,,,
+Lane,Sample_ID,Sample_Name,index
+1,BRI-1709,BRI-1709,TAAGGCGA
+2,BRI-1709,BRI-1709,TAAGGCGA
+1,BRI-1710,BRI-1710,AATGAGCG
+2,BRI-1710,BRI-1710,AATGAGCG
+1,BRI-1724,BRI-1724,GGAATCTC
+2,BRI-1724,BRI-1724,GGAATCTC
